@@ -2,13 +2,6 @@
 
 Official implementation of **ProRel**, a prototype-guided reliable transfer framework for cross-domain recommendation.
 
-## Authors
-
-Wei Zhang, Lei Sang, Yiwen Zhang*
-
-Wei Zhang, Lei Sang, and Yiwen Zhang are with the School of Computer Science and Technology, Anhui University, Hefei, Anhui 230601, China.
-
-Emails: zhang_wei@stu.ahu.edu.cn, sanglei@ahu.edu.cn, zhangyiwen@ahu.edu.cn
 
 ## Abstract
 
